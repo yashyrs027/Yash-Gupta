@@ -13,8 +13,8 @@ Email Me 👉 ✉️ **yashyrsgupta@gmail.com** For Collaboration/Project or Any
 # 📊 GitHub Stats:
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<!-- <div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> -->
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=Yash Gupta&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
